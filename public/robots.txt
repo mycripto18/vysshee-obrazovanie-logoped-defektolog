@@ -16,4 +16,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://study-finder-ru.lovable.app/sitemap.xml
+Sitemap: https://vysshee-obrazovanie-logoped-defekto.vercel.app/sitemap.xml
